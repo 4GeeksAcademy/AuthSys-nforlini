@@ -10,7 +10,7 @@ export const Home = () => {
       <p>Hello! Please Log-In</p>
       <div className="">
         <p>
-          Don't have an account yet? <a href="/login">Sign up here</a>.
+          Don't have an account yet? <a href="/signup">Sign up here</a>.
         </p>
       </div>
     </div>
